@@ -1,0 +1,6 @@
+examples/data2048.npy
+examples/data4096.npy
+examples/data8192.npy
+examples/data16384.npy
+examples/data32768.npy
+.DS_Store
